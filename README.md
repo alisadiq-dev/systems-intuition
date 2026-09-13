@@ -99,10 +99,7 @@ git clone <repo-url>
 cd systems-intuition
 ```
 
-2. Install dependencies (if any):
-```bash
-pip install -r requirements.txt
-```
+2. No external dependencies are currently required.
 
 ### Usage
 Each day has its own file:
